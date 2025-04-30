@@ -7,3 +7,5 @@ P
  contracts/impact-assessment.clar,9/9/998860548e8bac75d5da3fa14360b52f601db1ac
 V
 &contracts/implementation-tracking.clar,e/c/ec70f24e60582479104ac411f6daa4929eaf85cb
+]
+-contracts/regulatory-source-verification.clar,2/8/28621bf88c050e0d3f91ab6cb4c9e27d05258d58
