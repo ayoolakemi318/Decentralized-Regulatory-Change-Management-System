@@ -9,3 +9,15 @@ V
 &contracts/implementation-tracking.clar,e/c/ec70f24e60582479104ac411f6daa4929eaf85cb
 ]
 -contracts/regulatory-source-verification.clar,2/8/28621bf88c050e0d3f91ab6cb4c9e27d05258d58
+S
+#contracts/requirement-tracking.clar,4/d/4d150f3c35586e0035944a9cfdd1588fd50f1b97
+I
+tests/attestation.test.ts,0/7/078a3c025027367f0977afde429926ce29ed0db7
+O
+tests/impact-assessment.test.ts,9/b/9b7a0d70ee851a0974d708edf250c87d3df3583e
+U
+%tests/implementation-tracking.test.ts,d/d/dd0759f2611808c26238f263231d976cd8632b46
+\
+,tests/regulatory-source-verification.test.ts,f/6/f656cec0b71bb93cd39bdc78ec7d74b9bf00faa7
+R
+"tests/requirement-tracking.test.ts,2/0/20c32321dc4f22eb6fa89a9b11471238848fb251
